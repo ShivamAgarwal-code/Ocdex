@@ -1,6 +1,6 @@
 # Ocdex
 
-Inspiration
+## Inspiration
 My inspiration to build the Ocdex came from how successful Redacted and Convex have been on the EVM. We believe that a system like this has been lacking in the IBC for a long time and we have seen governance be overhauled by insider interest, and incentives be directed to users/protocols that were not aligned with the protocols that bootstrapped, and harboured them. As a team that has survived, the fantom debacle solidly, the Terra/UST collapse and the inevitable FTX collapse of capital we stayed confident and interested to build and contribute to the better and ethical future of crypto.
 
 What it does
